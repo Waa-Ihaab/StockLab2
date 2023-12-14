@@ -1,0 +1,112 @@
+
+.Hey-style{
+   
+    -fx-text-fill: #2E2E2E;
+    -fx-font-weight: 600;
+    -fx-font-family: 'Oswald', sans-serif;
+}
+.ugrade-style{
+   
+    -fx-text-fill: #2E2E2E;
+    -fx-font-weight: 600;
+    -fx-font-family: 'Oswald', sans-serif;
+}
+
+
+.Gmailst-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+
+
+.Phonest-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+
+.rectangle-style {
+	-fx-fill: #2E2E2E;
+	
+}
+
+
+.rectanglesefli-style {
+	-fx-fill: #2E2E2E;
+	-fx-border-radius: 29px 29px 0px 0px;
+}
+
+
+.StockLab-style{
+	 -fx-font-size: 35px;
+    -fx-text-fill: #2E2E2E;
+     -fx-font-family: "Proza Libre";
+     -fx-font-weight: 700; 
+    -fx-padding: -400px 0 0 -15px;
+}
+
+
+
+
+.Add_a_product-style {
+    -fx-background-color: #FFF;
+    -fx-font-size: 18px; 
+    -fx-min-width: 256px;
+    -fx-border-width: 0.7px; /* border: 0.15px solid #2E2E2E; */
+    -fx-border-color: #2E2E2E; /* border: 0.15px solid #2E2E2E; */
+    -fx-font-family: "Proza Libre";
+    -fx-min-height: 32px;
+    -fx-background-radius: 20px; 
+    -fx-border-radius: 30px; /* border-radius: 30px; */
+    -fx-effect: dropshadow(gaussian, rgba(46, 46, 46, 0.15), 0, 0, 0, 7), dropshadow(gaussian, rgba(94, 101, 129, 0.85), 0, 1, 0, 2); /* box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33); */
+
+
+}
+.Edit_a_product-style {
+    -fx-background-color: #FFF;
+    -fx-font-size: 18px; 
+    -fx-min-width: 256px;
+    -fx-border-width: 0.7px; /* border: 0.15px solid #2E2E2E; */
+    -fx-border-color: #2E2E2E; /* border: 0.15px solid #2E2E2E; */
+    -fx-font-family: "Proza Libre";
+    -fx-min-height: 32px;
+    -fx-background-radius: 20px; 
+    -fx-border-radius: 30px; /* border-radius: 30px; */
+    -fx-effect: dropshadow(gaussian, rgba(46, 46, 46, 0.15), 0, 0, 0, 7), dropshadow(gaussian, rgba(94, 101, 129, 0.85), 0, 1, 0, 2); /* box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33); */
+
+
+}
+.Log_out-style{
+	-fx-background-color: #FEB700;
+	-fx-font-size: 18px; 
+	-fx-min-width: 150px;
+	 -fx-font-family: "Proza Libre";
+	-fx-min-height: 30px;
+	-fx-background-radius: 18px; 
+}
+
+.Delete_a_product-style {
+    -fx-background-color: #FFF;
+    -fx-font-size: 18px; 
+    -fx-min-width: 256px;
+    -fx-border-width: 0.7px; /* border: 0.15px solid #2E2E2E; */
+    -fx-border-color: #2E2E2E; /* border: 0.15px solid #2E2E2E; */
+    -fx-font-family: "Proza Libre";
+    -fx-min-height: 32px;
+    -fx-background-radius: 20px; 
+    -fx-border-radius: 30px; /* border-radius: 30px; */
+    -fx-effect: dropshadow(gaussian, rgba(46, 46, 46, 0.15), 0, 0, 0, 7), dropshadow(gaussian, rgba(94, 101, 129, 0.85), 0, 1, 0, 2); /* box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33); */
+
+
+}
+
+
+.rectangleBlur-Style{
+	  -fx-fill: #AD882C;
+	
+}

@@ -1,0 +1,112 @@
+
+.circleadd-style{
+	 -fx-fill: #C6AB67;
+}
+
+.Gmailst-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+
+
+.Phonest-style{
+	-fx-font-size:10px;
+    -fx-text-fill: #FFF;
+    -fx-font-family: "Montserrat";
+    -fx-font-weight: 600; 
+}
+
+.Name_prod{
+	 -fx-background-color: #FFF;
+    -fx-border-color: #2E2E2E;
+    -fx-border-width: 1px;
+    -fx-border-radius: 15px;
+    -fx-padding: 8px 15px;
+    -fx-box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33);
+	-fx-max-width: 145px;
+	-fx-max-height: 10px;
+	-fx-background-insets: 0;
+    -fx-background-radius: 29px; 
+}
+.rectangle-style {
+	-fx-fill: #2E2E2E;
+	
+}
+
+
+.rectanglesefli-style {
+	-fx-fill: #2E2E2E;
+	-fx-border-radius: 29px 29px 0px 0px;
+}
+
+.rectangprice-style {
+	-fx-fill: transparent; /* Remplissage transparent */
+    -fx-stroke: #252525; /* Couleur du contour */
+    -fx-stroke-width: 1; /* Épaisseur du contour */
+    -fx-arc-width: 15; /* Rayon de l'arc pour la largeur */
+    -fx-arc-height: 15; /* Rayon de l'arc pour la hauteur */
+}
+
+.empty-textfield {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+    -fx-background-radius: 0;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-padding: 0;
+    -fx-font-size: 14px;
+    -fx-text-fill: black; /* Couleur du texte */
+}
+
+.spinner-style{
+    -fx-pref-width: 150px; 
+}
+
+.StockLab-style{
+	 -fx-font-size: 35px;
+    -fx-text-fill: #2E2E2E;
+     -fx-font-family: "Proza Libre";
+     -fx-font-weight: 700; 
+    -fx-padding: -400px 0 0 -15px;
+}
+
+
+.text-area-style {
+     -fx-border-width: 2px;
+   /*-fx-padding: 2px; */ 
+    
+}
+
+
+
+
+.Delete_a_product-style {
+    -fx-background-color: #FFF;
+    -fx-font-size: 18px; 
+    -fx-min-width: 256px;
+    -fx-border-width: 0.7px; /* border: 0.15px solid #2E2E2E; */
+    -fx-border-color: #2E2E2E; /* border: 0.15px solid #2E2E2E; */
+    -fx-font-family: "Proza Libre";
+    -fx-min-height: 32px;
+    -fx-background-radius: 20px; 
+    -fx-border-radius: 30px; /* border-radius: 30px; */
+    -fx-effect: dropshadow(gaussian, rgba(46, 46, 46, 0.15), 0, 0, 0, 7), dropshadow(gaussian, rgba(94, 101, 129, 0.85), 0, 1, 0, 2); /* box-shadow: 0px 4px 15px 0px rgba(46, 46, 46, 0.15), 0px 1px 2px 0px rgba(94, 101, 129, 0.33); */
+
+
+}
+.ResetButton-style{
+	-fx-background-color: #FEB700;
+	-fx-font-size: 16px; 
+	-fx-min-width: 95px;
+	 -fx-font-family: "Proza Libre";
+	-fx-min-height: 30px;
+	-fx-background-radius: 18px; 
+}
+
+.rectangleBlur-Style{
+	  -fx-fill: #AD882C;
+	
+}
